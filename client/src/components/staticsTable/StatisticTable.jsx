@@ -29,7 +29,7 @@ const StatisticsTable = () => {
     // Fetch statistics data from the API whenever the month changes
     const fetchStatistics = async () => {
       try {
-        const response = await axios.get(`http://localhost:2000/api/transactions/statistics?month=${month}`);
+        const response = await axios.get(`${import.meta.env.VITE_TRANSACTIONS_BASE_URL}/statistics?month=${month}`);
         
         if (response.data) {
           setStatistics({
