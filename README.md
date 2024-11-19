@@ -55,8 +55,8 @@ This project focuses on managing and displaying product transactions fetched fro
 
 |                     |                     |                     |
 |---------------------|---------------------|---------------------|
-| ![Screenshot 1](https://github.com/Abhikanade17112002/Synchronous/blob/main/client/src/assets/SynchronousHome.png) | ![Screenshot 2](https://github.com/Abhikanade17112002/Synchronous/blob/main/client/src/assets/SynchronousProfile.png) | ![Screenshot 3](https://github.com/Abhikanade17112002/Synchronous/blob/main/client/src/assets/SynchronousChat.png) |
-| ![Screenshot 4](https://github.com/Abhikanade17112002/Synchronous/blob/main/client/src/assets/SignUp.png) | ![Screenshot 5](https://github.com/Abhikanade17112002/Synchronous/blob/main/client/src/assets/SynchronousChat.png) | |
+| ![Screenshot 1](https://github.com/Abhikanade17112002/InternshipTask/blob/main/client/src/assets/BarChart.png) | ![Screenshot 2](https://github.com/Abhikanade17112002/InternshipTask/blob/main/client/src/assets/HomeScreen.png) | ![Screenshot 3](https://github.com/Abhikanade17112002/InternshipTask/blob/main/client/src/assets/PieChart.png) |
+| ![Screenshot 4](https://github.com/Abhikanade17112002/InternshipTask/blob/main/client/src/assets/Stats.png) | ![Screenshot 5](https://github.com/Abhikanade17112002/InternshipTask/blob/main/client/src/assets/TransactionsTable.png) | |
 
 
 
