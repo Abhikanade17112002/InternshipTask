@@ -38,7 +38,7 @@ const BarChart = () => {
       setLoading(true); // Start loading
       try {
         const monthString = String(month); // Ensure month is passed as string
-        const response = await axios.get(`http://localhost:2000/api/transactions/barchart?month=${monthString}`);
+        const response = await axios.get(`${import.meta.env.VITE_TRANSACTIONS_BASE_URL}/barchart?month=${monthString}`);
 
         // Check if the response data is valid
         if (response.data && response.data.response) {
