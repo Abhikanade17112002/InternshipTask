@@ -65,6 +65,13 @@ const HomePage = () => {
           >
             Statistics Table
           </Link>
+           <Link
+            to="/piechart"
+            className="block py-3 px-6 bg-red-600 text-white font-semibold rounded-lg hover:bg-red-700 transition duration-200 ease-in-out"
+
+          >
+            Piechart
+          </Link>
           <Link
             to="/barchart"
             className="block py-3 px-6 bg-pink-600 text-white font-semibold rounded-lg hover:bg-pink-700 transition duration-200 ease-in-out"
