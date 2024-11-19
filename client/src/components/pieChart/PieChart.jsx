@@ -35,7 +35,7 @@ const PieChart = () => {
   useEffect(() => {
     const fetchChartData = async () => {
       try {
-        const response = await axios.get(`http://localhost:2000/api/transactions/piechart?month=${month}`);
+        const response = await axios.get(`${import.meta.env.VITE_TRANSACTIONS_BASE_URL}/piechart?month=${month}`);
         
      
         if (response.data.response.length === 0) {
